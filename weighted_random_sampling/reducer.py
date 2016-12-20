@@ -20,4 +20,5 @@ for line in sys.stdin:
 
 print(reservoir)
 
-#[1] Weighted Random Sampling, 2005, Efraimidis, Spirakis, http://utopia.duth.gr/~pefraimi/research/data/2007EncOfAlg.pdf
+#[1] Weighted Random Sampling, 2005, Efraimidis, Spirakis, 
+# http://utopia.duth.gr/~pefraimi/research/data/2007EncOfAlg.pdf
