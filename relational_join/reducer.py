@@ -3,6 +3,9 @@
 # Reducer does the join and prints in the same line during different iterations
 # it works for Python 2.7
 
+# Output format: George --> (ADBS, 80) (EXC, 70) (TTS, 80)
+#                Anna --> (EXC, 65)
+
 import sys
 
 student_n = ''
